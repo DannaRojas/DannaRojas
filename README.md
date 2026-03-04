@@ -19,8 +19,17 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,,perline=12" />
  </a><br><br>
+      
+<h2> 🌄 Un poco más de mí </h2>
+      
   🔔 Me gusta jugar tennis, ir al gym, jugar videojuegos, cocinar, escuchar musica, comer, 
       <br>pintar y pasar tiempo con mi amigos y familia 
       
    <br>🔔 Soy buena trabajando en grupo, creativa, chistosa, amable y responsanble 
 </p>
+</table>
+
+<h2> 📫 Contacto 😃</h2>
+Puedes contactarme en: 
+<p>📧 dg.rojas@javeriana.edu.co | rojasdanna0607@gmail.com</p>
+<p> </p>
